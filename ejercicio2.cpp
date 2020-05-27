@@ -32,7 +32,7 @@ int main()
         cout<<"En"<<sv<<" debe cancelar "<<x1<<" dolares";
     }
     else if (e == 2){
-        cout<<"En"<<gua<<" debe canelar "<<x2<<" dolares";
+        cout<<"En"<<gua<<" debe cancelar "<<x2<<" dolares";
     }
     else if (e == 3){
         cout<<"En"<<hon<<" Debe cancelar "<<x3<<" dolares";
