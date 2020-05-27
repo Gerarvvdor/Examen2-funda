@@ -28,20 +28,18 @@ int main()
     x3 = (0.15 * f);
     x4 = ( 0.20 * f);
     
-    if (e == 1)
-    {
+    if (e == 1){
         cout<<"En"<<sv<<" debe cancelar "<<x1<<" dolares";
     }
     else if (e == 2){
         cout<<"En"<<gua<<" debe canelar "<<x2<<" dolares";
     }
-    else if (e == 3)
-    {
+    else if (e == 3){
         cout<<"En"<<hon<<" Debe cancelar "<<x3<<" dolares";
     }
-    else if (e == 4)
-    {
+    else if (e == 4){
         cout<<"En"<<esp<<" Debe cancelar "<<x4<<" dolares";
     }
+    
     return 0;
 }

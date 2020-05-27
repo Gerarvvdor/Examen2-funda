@@ -12,25 +12,19 @@ int main(){
     cin>>num;
     cout<<endl<<endl;
 
-    
-    if (num == 1)
-    {
+    if (num == 1){
         cout<<"Eligió el color "<<color1<<", ha ganado $20 dolares";
     }
-    else if (num == 2)
-    {
+    else if (num == 2){
         cout<<"Eligió el color "<<color2<<", ha ganado $95 dolares";
     }
-    else if (num == 3)
-    {
+    else if (num == 3){
         cout<<"Eligió el color "<<color3<<", ha ganado $5 dolares";
     }
-    else if (num == 4)
-    {
+    else if (num == 4){
         cout<<"Eligió el color "<<color4<<", ha ganado $110 dolares";
     }
-    else if (num == 5)
-    {
+    else if (num == 5){
         cout<<"Eligió el color "<<color5<<", ha ganado $55 dolares";
     }
     
